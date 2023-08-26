@@ -44,3 +44,10 @@ The report template is here: HTML template
 All you need to do is to save the images in the current folder as your html file, and fill in the required information and comments in the html file. Don’t edit the template further than needed.
 
 You’ll submit your report as an html file in a .zip container together with all the results you have saved. You need to add the necessary comments asked in the question definitions.
+
+## Below are my example results from completing the assignment
+![S1-panorama](https://github.com/JaredTweed/MATLAB/assets/59375645/a6bd34bd-293b-4f25-8612-b27600fea883)
+![S2-panorama](https://github.com/JaredTweed/MATLAB/assets/59375645/c30fc7c0-7c0b-4849-a18c-12c4369d171b)
+![S3-panorama](https://github.com/JaredTweed/MATLAB/assets/59375645/73fcbaf0-a2e2-4577-a6f1-519a4c749058)
+![S4-panorama](https://github.com/JaredTweed/MATLAB/assets/59375645/61f2c461-0e17-4ee0-94ed-c5a7d49a69d7)
+![S4-panorama_2](https://github.com/JaredTweed/MATLAB/assets/59375645/5342ebb5-87d8-478d-b7aa-071af7d6ff2a)
